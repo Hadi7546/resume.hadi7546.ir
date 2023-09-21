@@ -1,0 +1,100 @@
+{
+    "bio": {
+        "firstName": "Hadi",
+        "lastName": "Azarnasab",
+        "jobTitle": "Flutter & GoLang Developer",
+        "about": "I am Hadi Azarnasab. I am 16 years old and I have been working on Flutter for about 3 years and GoLang For about 2 years. During this time, I tried to improve my abilities in Flutter and now I have reached a relatively good mastery. And since 2023, I have started learning artificial intelligence and machine learning.",
+        "avatar": "https://hadi7546.ir/images/hadi-latest.png"
+    },
+    "contact": {
+        "phone": "",
+        "email": "hi@hadi7546.ir",
+        "website": "https://hadi7546.ir",
+        "location": "Bushehr, Iran"
+    },
+    "skills": [
+        "Flutter",
+        "Dart",
+        "BloC",
+        "GetX",
+        "Hooks",
+        "Dio",
+        "GetIt",
+        "GoLang",
+        "Echo",
+        "Gin",
+        "Gorm"
+    ],
+    "education": [
+        {
+            "school": "Middle School",
+            "degree": "Without Degree",
+            "field": "Without Field",
+            "startDate": "Sep 2020",
+            "endDate": "Jun 2023"
+        },
+        {
+            "school": "High School",
+            "degree": "Without Degree",
+            "field": "Mathematics",
+            "startDate": "Oct 2023",
+            "endDate": "Jun 2026"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Lamp",
+            "type": "Open-source",
+            "description": "A fun App With Flutter",
+            "website": "https://github.com/Hadi7546/Lamp",
+            "skills": [
+                "Flutter",
+                "Dart"
+            ],
+            "startDate": "Jun 2021",
+            "endDate": "Jun 2021"
+        },
+        {
+            "name": "Travel",
+            "type": "Open-source",
+            "description": "A Travel App With Flutter",
+            "website": "https://github.com/Hadi7546/travel",
+            "skills": [
+                "Flutter",
+                "Dart",
+                "BloC",
+                "Cubit"
+            ],
+            "startDate": "May 2022",
+            "endDate": "May 2022"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Limited Working proficiency"
+        },
+        {
+            "language": "Persian",
+            "fluency": "Native"
+        }
+    ],
+    "socials": [
+        {
+            "name": "Github",
+            "url": "https://github.com/Hadi7546"
+        },
+        {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/in/Hadi7546"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Hadi_7546"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/hadi_7546"
+        }
+    ]
+}
